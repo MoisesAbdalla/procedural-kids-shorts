@@ -1,0 +1,8 @@
+out/
+assets/
+*.blend
+*.blend1
+*.exr
+*.mp4
+*.wav
+__pycache__/
